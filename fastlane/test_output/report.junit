@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='WebViewTests.xctest' tests='3' failures='0'>
+  <testsuite name='WebViewTests.WebViewTests' tests='3' failures='0'>
+    <testcase classname='WebViewTests.WebViewTests' name='testExample' time='0.002'/>
+    <testcase classname='WebViewTests.WebViewTests' name='testHexStringToUIColor' time='0.001'/>
+    <testcase classname='WebViewTests.WebViewTests' name='testPerformanceExample' time='0.262'/>
+  </testsuite>
+</testsuites>
