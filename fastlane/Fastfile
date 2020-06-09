@@ -21,6 +21,10 @@ platform :ios do
     # add actions here: https://docs.fastlane.tools/actions
   end
 
+  lane :something do
+      puts("this is my first 🚀 lane")
+  end
+
   lane :tests do
     run_tests(scheme: "WebViewTests")
   end
